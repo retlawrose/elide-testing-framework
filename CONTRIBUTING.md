@@ -137,10 +137,6 @@ reference GitHub issues that this commit **Closes**.
 The rest of the commit message is then used for a description of the change. A detailed explanation 
 can be found in this [document][commit-message-format].
 
-## <a name="cla"></a> Signing the CLA
-
-Please sign our [Contributor License Agreement](https://yahoocla.herokuapp.com) (CLA) before sending pull requests. For any code
-changes to be accepted, the CLA must be signed. It's a quick process, we promise!
 
 ---
 
